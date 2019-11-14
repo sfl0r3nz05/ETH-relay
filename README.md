@@ -1,6 +1,6 @@
 # ETHrelay
 
-![alt text](https://github.com/sfl0r3nz05/ETHrelay/blob/master/img/img.png)
+![alt text](https://github.com/sfl0r3nz05/ETH-relay/blob/master/img/img.png)
 
 1. Adding testnet node in truffle-config.js
 2. Installing truffle-hdwallet-provider (cd truffle && npm i)
